@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fdb4a267-4d9c-48a4-b8d7-37e18c259e72" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Reinforcement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Reinforcement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../group7-group-assignment-" beforeDir="false" afterPath="$PROJECT_DIR$/../group7-group-assignment-" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m122-team12" beforeDir="false" afterPath="$PROJECT_DIR$/../m122-team12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reinforcement/plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reinforcement/plot2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reinforcement/qlearningAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/reinforcement/qlearningAgents.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
